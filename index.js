@@ -8,3 +8,4 @@ console.log(name)
 
 console.log("Height+1:")
 console.log(height)
+console.log(parseInt(height) + 1)
